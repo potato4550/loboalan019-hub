@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  Exploring the intersection of Artificial Intelligence, Mathematics, and Aerospace!.
+  Exploring the intersection of Artificial Intelligence, Mathematics, and Aerospace.
   <br />
   Building projects, learning new technologies, and turning ideas into reality.
 </p>
